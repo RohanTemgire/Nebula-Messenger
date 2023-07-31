@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nebula Messenger</string>
+    <string name="chat_logo">Chat Logo</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="login_as_user">Login as User</string>
+    <string name="login_as_guest">Login as Guest</string>
+    <string name="title_activity_channel_list">ChannelListActivity</string>
+    <string name="create_new_channel">Create new channel</string>
+    <string name="logout_dialog_description">You will need to login again to explore your chats.</string>
+</resources>
